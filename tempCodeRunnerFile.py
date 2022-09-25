@@ -1,4 +1,1 @@
-name= input("What is your name? ")
-name1= "hi"
-print(name)
-print(name1)
+print(str(70)+ str(100))
